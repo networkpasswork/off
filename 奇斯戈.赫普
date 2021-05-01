@@ -4,8 +4,8 @@
 namespace offsets
 {
 //signatures
-constexpr ::std::ptrdiff_t m_fFirstHook = 0xB1930;
-constexpr ::std::ptrdiff_t m_fSecondHook = 0xB1970;
+constexpr ::std::ptrdiff_t m_fFirstHook = 0xB1C40;
+constexpr ::std::ptrdiff_t m_fSecondHook = 0xB1C80;
 constexpr ptrdiff_t fakeLevel = 0x51F66D4;
 constexpr ptrdiff_t fakeRank = 0xD2510001;
 constexpr ptrdiff_t dwClientState = 0x589FE4;
